@@ -1,0 +1,54 @@
+<html>
+<head>
+    <h1>
+        Laura Jones
+    </h1>
+</head>
+<h3><u>Address</u>
+</h3>
+<p>
+    Brooklyn
+</p>
+<h3>
+    <u>Contact Information</u>
+</h3>
+<p>
+    ljones@brooklyn.nyc
+</p>
+<h3>
+    <u>Work Experience</u>
+</h3>
+<p>
+    Amazon
+</p>
+<em>Network Engineer</em>
+<p>
+    2014-Present
+<ul>
+    <li>Created cool stuff</li>
+    <li>Colved problems</li>
+    <li>Worked with a team of 12</li>
+</ul>
+</p>
+
+<p>
+    Walmart
+</p>
+<em>Salesforce Engineer</em>
+<p>
+    June 2013- Sept 2013
+</p>
+<ul>
+    <li>Attended meetings</li>
+    <li>Solved small problems</li>
+    <li>Worked with a small team</li>
+</ul>
+
+<h3>
+    Howard University
+</h3>
+<p>
+    Computer Science, BS/MS
+</p>
+<em>2005-2012</em>
+</html>
